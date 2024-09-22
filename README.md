@@ -8,6 +8,8 @@ The code has been developed in accordance with universally accepted software sta
 
 The Java programming language was implemented with careful attention to adhering to the naming conventions(CamelCase).
 
-## Result
+## Results
 
-<img src="" height="500"> 
+<img src="images/1.png" height="200"> 
+<img src="images/2.png" height="200"> 
+<img src="images/3.png" height="200"> 
